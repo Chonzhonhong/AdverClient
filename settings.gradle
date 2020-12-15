@@ -1,0 +1,2 @@
+include ':app', ':afbaselibrary', ':mediapick'
+rootProject.name='AdverClient'
